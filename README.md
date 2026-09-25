@@ -40,6 +40,8 @@ Generated synthetic population data using **CTGAN** + **Iterative Proportional F
 
 **Stack:** Python · Pandas · NumPy · SciPy · CTGAN · Streamlit
 
+🔗 [View Repository](https://github.com/ashidayat-dev/synthetic-population)
+
 ---
 
 ## 🎓 Education
