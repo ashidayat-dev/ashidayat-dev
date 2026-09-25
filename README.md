@@ -6,7 +6,7 @@ Informatics graduate from Universitas Catur Insan Cendekia (UCIC) with hands-on 
 
 I enjoy turning real-world requirements into structured systems and building data pipelines that produce meaningful and usable results.
 
-Based in Cirebon, Indonesia  
+Cirebon, Indonesia  
 Email: achmad.hidayat.id@gmail.com
 
 ---
@@ -21,23 +21,20 @@ Email: achmad.hidayat.id@gmail.com
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**Languages**
-
-PHP · Python · SQL
-
-**Backend & Database**
-
-Laravel · FastAPI · MySQL · PostgreSQL · Eloquent ORM · Database Design · Authentication & Authorization · Validation
-
-**Data & Analytics**
-
-Pandas · NumPy · SciPy · Data Preprocessing · Synthetic Data Generation · Statistical Evaluation
-
-**Tools**
-
-Git · GitHub · Docker · Streamlit
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -108,5 +105,5 @@ GPA: 3.90 / 4.00
 
 ## Contact
 
-Email: achmad.hidayat.id@gmail.com  
-GitHub: https://github.com/ashidayat-dev
+Email: [achmad.hidayat.id@gmail.com](mailto:achmad.hidayat.id@gmail.com)  
+GitHub: [ashidayat-dev](https://github.com/ashidayat-dev)
